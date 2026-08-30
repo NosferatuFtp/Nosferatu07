@@ -6,9 +6,9 @@
 
 ## Instalación
 
-```bash $ git clone https://github.com/SamaelAS/Sdominio```
+```bash $ git clone https://github.com/NosferatuFtp/Nosferatu07```
 
-```bash $ cd Sdomin```
+```bash $ cd Nosferatu07```
 
 ```bash $ pip3 install -r requirements.txt```
 
